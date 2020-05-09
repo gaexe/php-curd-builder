@@ -1,0 +1,53 @@
+
+.blog .post {
+  margin-bottom: 30px;
+}
+
+.comments .quote {
+  border-left: 2px solid #ccc;
+  padding-left: 15px;
+}
+
+.comments .quote span{
+  display: block;
+  margin-left: 35px;
+  font-size: 12px;
+}
+
+
+
+ul.nolist {
+  padding: 0px;
+  list-style: none;
+}
+
+.widget li {
+  margin: 15px 0px;
+  font-size: 14px;
+}
+
+.widget.comments li span {
+  display: block;
+  font-size: 12px;
+}
+
+.margin-bottom-10 {
+  margin-bottom: 20px;
+}
+
+.margin-bottom-15 {
+  margin-bottom: 20px;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+
+.margin-bottom-30 {
+  margin-bottom: 20px;
+}
+
+.margin-bottom-40 {
+  margin-bottom: 20px;
+}
+
